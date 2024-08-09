@@ -13,9 +13,9 @@ members = {"micky", "joel", "nati"} #this variable contains a list data type.'''
 isMembers = False #a boolean data type variable written with a cammel case. '''
 
 #some operation exapmles 👇👇
-m = 5
+'''m = 5
 h = 2
-'''print(m+h) #addition
+print(m+h) #addition
 print(m*h) #multiplication
 print(m/h) #division
 print(m%h) #modulus'''
@@ -43,10 +43,14 @@ else:
 #LOOP-->(WHILE, FOR, RANGE)
 
 #WHILE-->  repeates the codeblock as long as the condition is true.
-#FOR--> for variable in iterable:
-        #code block
+#FOR--> we usually use for loop for lists.
+        #example
+'''students = ["micky", "nati", "sami"]
+for x in students:
+    print(x)'''
 #RANGE--> generates a sequence of numbers, and used with FOR loop.
-
+'''for i in range(1, 20, 0.5):
+    print(i)'''
 
 
 
