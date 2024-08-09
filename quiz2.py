@@ -1,4 +1,4 @@
-#python example project_1
+#python example project_2
 #NUMBER_GUESSING_GAME
 
 import random #imports a random number for a fair play
